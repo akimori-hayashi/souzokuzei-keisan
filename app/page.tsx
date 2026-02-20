@@ -413,7 +413,7 @@ export default function Home() {
                     解説中...
                   </>
                 ) : (
-                  "かんたん解説（Haiku）"
+                  "かんたん解説"
                 )}
               </button>
               <button
@@ -427,7 +427,7 @@ export default function Home() {
                     解説中...
                   </>
                 ) : (
-                  "詳しく解説（Sonnet）"
+                  "詳しく解説"
                 )}
               </button>
             </div>
